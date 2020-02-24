@@ -1,2 +1,3 @@
-# TestGitHub
-For testing
+# LearnGitHub
+
+Learn various functions of github!
