@@ -11,3 +11,9 @@ learn many of these from [here](https://help.github.com/en/github)
 ## caution
 
 - When editing files in repositories at github website directly, that makes one commit ahead of compared to other local repos.
+
+  - SOLUTION)
+ 
+    - use command git pull
+  
+    - delete existing local repo and clone newest repo.
